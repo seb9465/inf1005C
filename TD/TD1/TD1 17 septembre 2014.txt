@@ -1,0 +1,227 @@
+LABORATOIRE TD1 :
+
+EXERCICE 1:
+
+
+Afficher "Donner les coordonnées x du point A"
+Lire coordonnéesXDuPointA
+
+Afficher "Donner les coordonnées y du point A"
+Lire coordonnéesYDuPointA
+
+Afficher "Donner les coordonnées x du point B"
+Lire coordonnéesXDuPointB
+
+Afficher "Donner les coordonnées y du point B"
+Lire coordonnéesYDuPointB
+
+Afficher "Donner les coordonnées x du point C"
+Lire coordonnéesXDuPointC
+
+Afficher "Donner les coordonnées y du point C"
+Lire coordonnéesYDuPointC
+
+normeAB = [(coordonnéesXDuPointB-coordonnéesXDuPointA)^2+(coordonnéesYDuPointB-coordonnéesYDuPointA)^2]^1/2
+Afficher "La norme du vecteur AB est" normeAB
+
+normeAC = [(coordonnéesXDuPointC-coordonnéesXDuPointA)^2+(coordonnéesYDuPointC-coordonnéesYDuPointA)^2]^1/2
+Afficher "La norme du vecteur AC est" normeAC
+
+coordonnéesXDuPointD = [coordonnéeXDuPointB+(coordonnéeXDuPointC-coordonnéeXDuPointA)]
+coordonnéesYDuPointD = [coordonnéeYDuPointB+(coordonnéeYDuPointC-coordonnéeYDuPointA)]
+
+Afficher "Les coordonnées du point D pour former le parallèlogramme sont" (coordonnéesXDuPointD,coordonnéesYDuPointD)
+
+
+
+EXERCICE 2:
+
+Afficher "Entrez une suite de 50 nombres croissants"
+
+i=0
+
+Afficher "Entrer un premier nombre"
+Lire premierNombre
+listeNombre[i]= premierNombre
+
+i=1 
+
+TANT QUE i<50 FAIRE
+	Afficher "Entrer un nombre"
+	Lire nombre
+	listeNombre[i]=nombre
+
+	SI listeNombre[i] != listeNombre[i-1] ALORS
+		Afficher listeNombre[i]
+	
+	i=i+1
+
+
+
+
+EXERCICE 3:
+
+
+Afficher "Ecrire une phrase A" 
+Lire phraseA
+
+Afficher "Ecrire une phrase B" 
+Lire phraseB
+
+Afficher "Entrez une lettre"
+Lire lettre
+
+i = 0
+longueurPhraseA = Longueur(phraseA)
+longueurPhraseB = Longueur(phraseB)
+
+TANT QUE i < longueurPhraseA OU i < longueurPhraseB FAIRE
+
+	SI i < longueurPhraseA ET phraseA[i]=lettre ALORS
+		nombreOccurencePhraseA = nombreOccurencePhraseA + 1
+	
+	SI i < longueurPhraseB ET phraseB[i]=lettre ALORS
+		nombreOccurencePhraseB = nombreOccurencePhraseB + 1
+ 	
+	i= i+1
+	
+SI occurencePhraseA > occurenceDeuxiemePhrase ALORS
+	Afficher "La phrase A contient plus d'occurence sur la lettre entrée"
+Sinon 	
+	Afficher "La phrase B contient plus d'occurence dur la lettre entrée"
+
+
+EXERCICE 4:
+
+
+nombresNégatifs = 0
+nombresPositifs = 0
+zéroAtteint = faux
+
+TANT QUE !zéroAtteint FAIRE
+	Afficher "Entrer un nombre quelconque"
+	Lire nombre
+	
+	SI nombre < 0 ALORS
+		totalNegatif = totalNegatif + nombre
+	SINON
+		SI nombre > 0 ALORS
+			totalPositif = totalPositif + nombre
+		SINON 
+			zeroAtteint = vrai
+Afficher totalNegatif
+Afficher totalPositif
+			
+
+
+
+EXERCICE 5:
+
+
+théorèmeRespecté = faux 
+
+TANT QUE !théorèmeRespecté FAIRE
+		
+	Afficher "Entrer un nombre A"
+	Lire A
+
+	Afficher "Entrer un nombre B"
+	Lire B
+
+	Afficher "Entrer un nombre C"
+	Lire C
+
+	SI A>B ET A>C ALORS
+		A = hypoténuse
+		B = côtéUn
+		C = côtéDeux
+	SINON
+		SI B>A ET B>C ALORS
+			B = hypoténuse
+			A = côtéUn
+			C = côtéDeux
+		SINON
+			SI C>A ET C>B ALORS
+				C = hypoténuse
+				A = côtéUn
+				B = côtéDeux
+
+	théorèmeRespecté = hypoténuse == [(côtéUn)^2 + (côtéDeux)^2]^1/2 ALORS
+
+	SI théorèmeRespecté ALORS
+		Afficher "Le théorème de Pythagore est respecté"
+	
+
+EXERCICE 6 :
+
+Afficher "Entrez un nombre entre 0 et 99"
+Lire nombre
+
+intervalleRespectée = vrai
+i = 0
+sommeChiffre = 0
+
+TANT QUE intervalleRespectée = nombre => 0 ET nombre <= 99 FAIRE
+	
+	SI nombre[0] == 3 OU nombre[1] == 3 ALORS
+		Afficher "Ce nombre contient le chiffre 3"
+		i = i+1
+		sommeChiffre = sommeChiffre + nombre
+
+moyenne = sommeChiffre / i
+Afficher "La moyenne des nombres ayant un chiffre 3 est" moyenne
+
+
+EXERCIE 7 :
+
+Afficher "Calcul des 100 premiers termes de la suite de Conway"
+
+a = 0
+compteur = 0
+i = 1
+
+nombre = 1
+
+TANT QUE a < 100 ALORS		//100 premiers termes
+	nbCaractere = longueur(nombre)		//determiner nombre de chiffre dans le nombre
+	TANT QUE i =< nbCaractere		//boucle vŽrifiant chaque chiffre du nombre
+		j = 0				//utile pour determiner le nouveau nombre
+		SI nombre[i] == nombre [i - 1]	//comparaison avec le chiffre dÕavant
+			compteur++		//incrŽmentation compteur si le chiffre est le mme que le prŽcŽdent
+		SINON
+			SI nombre[i] != 0
+				nouveauNombre[j] = compteur + 1		//ˆ la position [j] il y aura le nombre de fois que le chiffre se repetent
+				nouveauNombre[j+1]			//ˆ la posisiton [j + 1] il y aura le chiffre dont il est question
+				compteur = 0
+				j = j + 2
+		i = i + 1
+	nombre = nouveauNombre
+	a = a + 1
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

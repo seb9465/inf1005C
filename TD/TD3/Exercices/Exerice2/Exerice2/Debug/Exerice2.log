@@ -1,0 +1,10 @@
+﻿La génération a démarré 2014-10-01 08:39:39.
+     1>Projet "Y:\documents\INF1005C\TD3\Exerice2\Exerice2\Exerice2.vcxproj" sur le nœud 2 (ClCompile cible(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Exercice2.cpp
+         Exercice2.cpp
+     1>Génération du projet "Y:\documents\INF1005C\TD3\Exerice2\Exerice2\Exerice2.vcxproj" terminée (ClCompile cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:01.58

@@ -1,0 +1,10 @@
+﻿La génération a démarré 2014-09-29 11:23:05.
+     1>Projet "C:\Users\Sébastien\Documents\Visual Studio 2013\Projects\Chapitre4\if_et_else\if_et_else\if_et_else.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Sébastien\Documents\Visual Studio 2013\Projects\Chapitre4\if_et_else\Debug\if_et_else.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Sébastien\Documents\Visual Studio 2013\Projects\Chapitre4\if_et_else\Debug\if_et_else.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Sébastien\Documents\Visual Studio 2013\Projects\Chapitre4\if_et_else\Debug\if_et_else.lib" /MACHINE:X86 Debug\if_et_else.obj
+         if_et_else.vcxproj -> C:\Users\Sébastien\Documents\Visual Studio 2013\Projects\Chapitre4\if_et_else\Debug\if_et_else.exe
+     1>Génération du projet "C:\Users\Sébastien\Documents\Visual Studio 2013\Projects\Chapitre4\if_et_else\if_et_else\if_et_else.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:00.32

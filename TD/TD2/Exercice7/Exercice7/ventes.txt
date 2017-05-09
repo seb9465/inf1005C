@@ -1,0 +1,4 @@
+Dupond
+chaussures	1 250
+chandail	2 95
+casquette	2 35

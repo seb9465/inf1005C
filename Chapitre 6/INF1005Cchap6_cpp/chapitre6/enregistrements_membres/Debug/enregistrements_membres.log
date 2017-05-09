@@ -1,0 +1,11 @@
+﻿La génération a démarré 2014-11-16 13:27:41.
+     1>Projet "C:\Users\Sébastien\Google Drive\INF1005C\Chapitre 6\INF1005Cchap6_cpp\chapitre6\enregistrements_membres\enregistrements_membres.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\INF1005Cchap6_cpp\VI_enregistrements_membre.cpp
+         VI_enregistrements_membre.cpp
+     1>c1xx : fatal error C1083: Impossible d'ouvrir le fichier source : '..\..\INF1005Cchap6_cpp\VI_enregistrements_membre.cpp' : No such file or directory
+     1>Génération du projet "C:\Users\Sébastien\Google Drive\INF1005C\Chapitre 6\INF1005Cchap6_cpp\chapitre6\enregistrements_membres\enregistrements_membres.vcxproj" terminée (Build cible(s)) -- ÉCHEC.
+
+ÉCHEC de la build.
+
+Temps écoulé 00:00:00.15

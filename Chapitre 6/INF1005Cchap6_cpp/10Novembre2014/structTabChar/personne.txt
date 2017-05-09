@@ -1,0 +1,7 @@
+albert 20
+jean  41
+marie 60
+joseph 44
+pierre 34
+
+

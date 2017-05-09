@@ -1,0 +1,40 @@
+Julius Plucker;1801-1868;mathematicien et physicien allemand
+Christian Doppler;1803-1853;mathematicien et physicien autrichien
+Joseph Whitworth;1803-1887;mecanicien britannique
+Isambard Kingdom Brunel;1806-1859;ingenieur britannique
+James Nasmyth;1808-1890;ingenieur britannique
+Louis Braille;1809-1852;inventeur francais
+Charles Robert Darwin;1809-1882;naturaliste britannique
+Auguste Bravais;1811-1863;physicien francais
+evariste Galois;1811-1832;mathematicien francais
+Henry Bessemer;1813-1898;ingenieur britannique
+Horace Wells;1815-1848;dentiste americain
+Carl Zeiss;1816-1888;opticien allemand
+Charles Adolphe Wurtz;1817-1884;chimiste francais
+Henri Sainte-Claire Deville;1818-1881;chimiste francais
+James Prescott Joule;1818-1889;physicien britannique
+Elias Howe;1819-1867;ingenieur mecanicien americain
+Jean Bernard Leon Foucault;1819-1868;physicien francais
+Gregor Mendel;1822-1884;botaniste autrichien
+Louis Pasteur;1822-1895;chimiste francais
+Rudolf Clausius;1822-1888;physicien allemand
+Etienne Lenoir;1822-1900;ingenieur francais
+Carl Wilhelm Siemens;1823-1883;ingenieur allemand et britannique
+Gustav Kirchhoff;1824-1887;physicien allemand
+Friedrich Kekule von Stradonitz;1829-1896;chimiste allemand
+James Clerk Maxwell;1831-1879;mathematicien et physicien britannique
+Nikolaus Otto;1832-1891;ingenieur allemand
+William Crookes;1832-1919;chimiste et physicien britannique
+Gottlieb Daimler;1834-1900;ingenieur allemand
+Dmitri Mendeleiev;1834-1907;chimiste russe
+Josef Stefan;1835-1893;physicien autrichien et slovene
+Adolf von Baeyer;1835-1917;chimiste allemand
+Johannes Diderik Van der Waals;1837-1923;physicien neerlandais
+William Henry Perkin;1838-1907;chimiste britannique
+Ernst Mach;1838-1916;physicien et psychologue autrichien
+Thomas Alva Edison;1847-1931;ingenieur americain
+Nikola Tesla;1856-1943;ingenieur en electronique americain d'origine serbe
+Niels Bohr;1885-1962;physicien danois
+a;1-2;3
+allo;allo-allo;allo toi
+;Q-q;q

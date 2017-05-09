@@ -1,0 +1,5 @@
+01	N38 08 38.720	W076 25 51.804	N/A	Demi-cercle	Rouge	N/A	Blanc	cible_01.jpg
+02	N38 08 36.310	W076 25 58.666	SW	Cercle	Noir	E	Rouge	cible_02.jpg
+04	N38 08 32.850	W076 25 56.082	NW	Rectangle	Bleu	F	Jaune	cible_04.jpg
+08	N38 08 28.740	W076 25 55.296	W	Triangle	Mauve	E	Vert	cible_08.jpg
+11	N38 08 26.620	W076 25 35.387	N/A	N/A	Gris	N/A	Orange	cible_11.jpg

@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tableau", "tableau\tableau.vcxproj", "{B75E5EC1-E2F9-4794-86F5-5880EEAFB41A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "loto", "loto\loto.vcxproj", "{11A7875D-E050-4989-80E5-C2760A0A8287}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "matrice", "matrice\matrice.vcxproj", "{E1BF9B6C-CAE0-4AA1-A9A8-6E2D58693362}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "comptageFichier", "labyrinthe\labyrinthe.vcxproj", "{3ABB9023-D869-4ABB-B344-EFFC47B7B4B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B75E5EC1-E2F9-4794-86F5-5880EEAFB41A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B75E5EC1-E2F9-4794-86F5-5880EEAFB41A}.Debug|Win32.Build.0 = Debug|Win32
+		{B75E5EC1-E2F9-4794-86F5-5880EEAFB41A}.Release|Win32.ActiveCfg = Release|Win32
+		{B75E5EC1-E2F9-4794-86F5-5880EEAFB41A}.Release|Win32.Build.0 = Release|Win32
+		{11A7875D-E050-4989-80E5-C2760A0A8287}.Debug|Win32.ActiveCfg = Debug|Win32
+		{11A7875D-E050-4989-80E5-C2760A0A8287}.Debug|Win32.Build.0 = Debug|Win32
+		{11A7875D-E050-4989-80E5-C2760A0A8287}.Release|Win32.ActiveCfg = Release|Win32
+		{11A7875D-E050-4989-80E5-C2760A0A8287}.Release|Win32.Build.0 = Release|Win32
+		{E1BF9B6C-CAE0-4AA1-A9A8-6E2D58693362}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E1BF9B6C-CAE0-4AA1-A9A8-6E2D58693362}.Debug|Win32.Build.0 = Debug|Win32
+		{E1BF9B6C-CAE0-4AA1-A9A8-6E2D58693362}.Release|Win32.ActiveCfg = Release|Win32
+		{E1BF9B6C-CAE0-4AA1-A9A8-6E2D58693362}.Release|Win32.Build.0 = Release|Win32
+		{3ABB9023-D869-4ABB-B344-EFFC47B7B4B8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3ABB9023-D869-4ABB-B344-EFFC47B7B4B8}.Debug|Win32.Build.0 = Debug|Win32
+		{3ABB9023-D869-4ABB-B344-EFFC47B7B4B8}.Release|Win32.ActiveCfg = Release|Win32
+		{3ABB9023-D869-4ABB-B344-EFFC47B7B4B8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lecture_get", "lecture_get\lecture_get.vcxproj", "{FF89BB46-0E24-424F-9389-28FFA754ACD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF89BB46-0E24-424F-9389-28FFA754ACD2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FF89BB46-0E24-424F-9389-28FFA754ACD2}.Debug|Win32.Build.0 = Debug|Win32
+		{FF89BB46-0E24-424F-9389-28FFA754ACD2}.Release|Win32.ActiveCfg = Release|Win32
+		{FF89BB46-0E24-424F-9389-28FFA754ACD2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

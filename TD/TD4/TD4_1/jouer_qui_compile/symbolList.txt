@@ -1,0 +1,20 @@
+demanderNombreDansIntervalle.obj
+	?demanderNombreDansIntervalle@@YAHHH@Z (int demanderNombreDansIntervalle(int, int))
+	?test_demanderNombreDansIntervalle@@YAXXZ (void test_demanderNombreDansIntervalle())
+demanderNombreSticks.obj
+	?demanderNombreSticks@@YAHXZ (int demanderNombreSticks())
+	?test_demanderNombreSticks@@YAXXZ (void test_demanderNombreSticks())
+demanderNomsJoueurs.obj
+	?demanderNomsJoueurs@@YAHQAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z (int demanderNomsJoueurs(string* const))
+	?test_demanderNomsJoueurs@@YAXXZ (void test_demanderNomsJoueurs())
+jouerHumain.obj
+	?jouerHumain@@YAXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAH@Z (void jouerHumain(string const&, int&))
+	?test_jouerHumain@@YAXXZ (void test_jouerHumain())
+jouerOrdinateur.obj
+	?jouerOrdinateur@@YAXAAH@Z (void jouerOrdinateur(int&))
+	?test_jouerOrdinateur@@YAXXZ (void test_jouerOrdinateur())
+jouer.obj
+	?jouer@@YAXHHQBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z (void jouer(int, int, string const* const))
+	?test_jouer@@YAXXZ (void test_jouer())
+	?test_tout@@YAXXZ (void test_tout())
+	_main (_main)

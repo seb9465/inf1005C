@@ -1,0 +1,9 @@
+﻿La génération a démarré 2014-10-26 17:45:39.
+     1>Projet "C:\Users\Sébastien\Documents\TD4\TD422101141\TD4\TD4_1\jouer_qui_compile\jouer_qui_compile.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>Build:
+         myLink.exe symbolList.txt .. ..\jouer\Debug "C:\Users\Sébastien\Documents\TD4\TD422101141\TD4\TD4_1\Debug\jouer_qui_compile.exe"
+     1>Génération du projet "C:\Users\Sébastien\Documents\TD4\TD422101141\TD4\TD4_1\jouer_qui_compile\jouer_qui_compile.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:00.10
