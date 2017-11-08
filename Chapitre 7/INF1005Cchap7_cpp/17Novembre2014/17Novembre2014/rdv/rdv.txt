@@ -1,5 +1,0 @@
-12 30 dentiste
-9 60  dejeuner entre amis
-15 30 reunion au centre ville
-17 75  sport au club
-  

@@ -1,8 +1,0 @@
-ligne 1 2 3 4
-cercle 20 20 20
-ligne 4 5 6 7
-cercle 2 1 2
-ligne 10 11 23 45
-cercle 2 1 10
-ligne 9 8 7 6
-

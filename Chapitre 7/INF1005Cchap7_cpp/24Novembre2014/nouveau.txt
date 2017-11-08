@@ -1,7 +1,0 @@
-albert	20
-jean	41
-marie	60
-joseph	44
-pierre	34
-martine	34
-moussa	18
